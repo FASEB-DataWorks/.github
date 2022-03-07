@@ -1,4 +1,5 @@
-# What is DataWorks!
+![FASEB-DATAWorks_RGB-Logo_Gray-White](https://user-images.githubusercontent.com/90872869/157096601-db0eec57-ea97-48ee-bbc2-1087466bd215.png "DataWorks! icon")
+
 
 FASEB DataWorks! is a new initiative that brings the biological and biomedical research communities together to advance human health through data sharing and reuse. The Federation of American Societies for Experimental Biology, [FASEB](https://faseb.org), is a nonprofit federation of 30 biological and biomedical science societies, representing over 130,000 researchers. Over the last decade, FASEB has been working with its member societies to enhance research transparency, rigor, and reproducibility. FASEB DataWorks! comes directly from these community efforts, and aims to drive a vision of a world where all researchers reuse data. DataWorks! is designed to be open and self-sustaining and is initially funded by a US$1.5m investment by the FASEB Board.
 
